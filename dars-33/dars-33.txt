@@ -1,0 +1,7 @@
+Working with files
+
+O'rgangan narsalarim:
+1. pyhtonda file ochish
+2. pythonda file yaratish
+3. pythonda file ni tahrirlash
+4. etc
